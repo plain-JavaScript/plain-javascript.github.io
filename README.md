@@ -22,6 +22,7 @@ Repositories on GitHub relating to vanilla JavaScript
 
 Resources on GitHub for learning JavaScript
 
+* https://developer.mozilla.org/en-US/docs/Learn
 * https://github.com/micromata/awesome-javascript-learning ~ curated
 * https://github.com/snipcart/learn-vanilla-js
 
@@ -97,5 +98,9 @@ Links to a number of useful articles
 * https://news.ycombinator.com/item?id=26305585
 
 >Summary: I believe that small websites are compelling aesthetically, but are also important to help us resist selling our souls to large tech companies. In this essay I present a vision for the “small web” as well as the small software and architectures that power it. Also, a bonus rant about microservices.
+
+## People
+
+### https://xem.github.io/
 
 ***
