@@ -51,6 +51,7 @@ Very long read covering a number of topics relating to the issues with building 
 ### Jeremy Likness: Build a Single Page Application (SPA) Site With Vanilla.js ~ https://blog.jeremylikness.com/blog/build-a-spa-site-with-vanillajs/
 >Modern JavaScript frameworks exist to address deficiencies in the capabilities provided out of the box by HTML5, JavaScript, CSS, and WebAssembly. The latest stable version of JavaScript (ECMAScript® 2015) evolved significantly compared to earlier versions, with better control over scope, powerful string manipulation capabilities, destructuring, parameter enhancements, and the built-in implementation of classes and modules (there is no longer a need to use IIFEs or immediately-invoked function expressions). The purpose of this post is to explore how to build modern apps using the latest JavaScript features.
 
+### https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
 
 ## Links of Interest
 
@@ -58,9 +59,15 @@ Very long read covering a number of topics relating to the issues with building 
 
 * https://github.com/GuerrillaStudio/vanillalist
 
+Every plugin includes a demo. link to sources on GitHub and NPM
+
+
 ### https://gomakethings.com/ ~ Chris Ferdinandi
 
 * https://vanillajstoolkit.com/helpers/
+* https://gist.github.com/cferdinandi
+
+
 
 ### https://github.com/frameworkless-movement/awesome-frameworkless
 
