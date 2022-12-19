@@ -1,6 +1,8 @@
 # https://plain-JavaScript.github.io
 
-This repository lists resources for developers of plain vanilla JavaScript.
+This repository provides lists of links to resources for developers of applications based on the JavaScript programming language. The particular emphasis here is on plain "vanilla" scripts that are simple, free and easy on the brain.
+
+***
 
 JavaScript is perhaps the most widely used computer language. Almost any computing task - no matter howe complicated - has been accomplished with JavaScript. Some of the smartest people in the world investigate the most difficult issues using JavaScript.
 
@@ -24,43 +26,67 @@ It wants to show that JavaScript covers a huge range of possibilities while at t
 
 2022-12-18 ~ This is my second day on this project. It is a work-in-progress. My goal is to spend an hour or so a day in this effort - until such time I feel that the effort is worth sharing. ❧ Theo Armour
 
-
-## Standards References
-
-JavaScript is a language with a free and open source specification
+## Reference ~ Wikimedia Foundation projects relating to JavaScript
 
 
-### https://www.ecma-international.org/technical-committees/tc39/
+### Wikipedia ~ https://en.wikipedia.org/wiki/JavaScript
 
-* https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+>JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
+
+Wikipedia is a good place to start because it provides overviews including the vocabulary you may encounter, the history of the effort and links to the range of available resources.
+
+The Categories section at the bottom of the article opens up to display an extensive array of resources.
+
+
+### Wikibooks: https://en.wikibooks.org/wiki/JavaScript
+
+>The Wikibook on hand is intended as a guide for WEB developers who want to learn the basics of the programming language JavaScript. It offers short descriptions of concepts, syntax, context, and JavaScript-related technologies, as well as code examples and exercises. Additional links lead the reader to in-depth information regarding the more complex features and such issues that have a loose relation to JavaScript. Especially the Wikiversity course "JavaScript Programming" offers a rich set of additional details and links to YouTube learning videos.
+
+See also
+
+* https://en.wikibooks.org/wiki/JavaScript/Links
+
+The JavaScript Wikibook provides a detailed overview of the language. It's more of a reference manual people with some JavaScript experience than a learning resources for beginners. As with many Wiki efforts, it's great in some places and lacking in others. Perhapd the biggest issue is that it is no always up to date with features in the latest releases. For example, https://en.wikibooks.org/wiki/JavaScript/Arrays#Properties_and_methods leaves out many options. Perhaps, the greatest strengths are the extensive lists of links to relevant resources.
+
+
+### Wikiversity: https://en.wikiversity.org/wiki/JavaScript_Programming
+
+>This course comprises 16 lessons on JavaScript programming. Each lesson includes a combination of Wikipedia and Internet-based readings, YouTube videos, and hands-on learning activities. The entire course can be downloaded in book form by selecting "Download Learning Guide" in the sidebar.
+
+The material in the Wikiversity JavaScript course appear to be a great resource for helping teachers prepare college and advanced highschool level courses.
+
+***
+
+See also a variety of other JavaScript references in https://en.wikipedia.org/wiki/Wikipedia:Wikimedia_sister_projects
+
+
+## Reference ~ Technical Standard.
+
+JavaScript is a language with a free and open source specification. The specification of JavaScript is an [International Standard]( https://en.wikipedia.org/wiki/International_standard ) and is maintained by ecma-international.org. It is ISO/IEC 16262.
+
+It is worth noting that only a few computer languages are maintained as technical standards. These include C, C++, COBOL, Fortran and Ruby. Note that PHP, Python, Perl, Swift and Rust are privately maintained.
+
+### https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+
+* https://www.ecma-international.org/technical-committees/tc39/
+
 
 
 ### https://www.w3.org/standards/webdesign/script
 
 >While the most common scripting language ECMAscript (more widely known as JavaScript) is developed by Ecma, a great many of the APIs made available in browsers have been defined at W3C.
 
+Standards maintained by W3 include: Audio, Canvas, CORS, DOM, DOM events, EME File, Geolocation, IndexedDB, MSE, SSE, SVG, Video, WebAssembly, WebAuthn, WebGPU, WebRTC, WebSocket, WebXR, Web messaging, Web storage, Web worker, and XMLHttpRequest
+
+
 ### https://www.khronos.org/
 
->Khronos royalty-free open standards for 3D graphics, Virtual and Augmented Reality, Parallel Computing, Machine Learning, and Vision Processing
+>Khronos royalty-free open standards for 3D graphics, Virtual and Augmented Reality, Parallel Computing, Machine Learning, and Vision Processing. Khronos develops and maintains WebGL ~ https://en.wikipedia.org/wiki/WebGL and WebCL.
 
+W3 and Khronos are two organizations developing and maintaining standards use to generate libraries of software that are embedded in browsers and readily available to you as a JavaScript programmer.
 
-## Wikimedia Foundation Projects relating to JavaScript
+Future editions may list more standards bodies that help regulate JavaScript features.
 
-
-### https://en.wikipedia.org/wiki/JavaScript
-
->JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
-
-
-### https://en.wikibooks.org/wiki/JavaScript
-
->The Wikibook on hand is intended as a guide for WEB developers who want to learn the basics of the programming language JavaScript. It offers short descriptions of concepts, syntax, context, and JavaScript-related technologies, as well as code examples and exercises. Additional links lead the reader to in-depth information regarding the more complex features and such issues that have a loose relation to JavaScript. Especially the Wikiversity course JavaScript Programming offers a rich set of additional details and links to YouTube learning videos.
-* https://en.wikibooks.org/wiki/JavaScript/Links
-
-
-### https://en.wikiversity.org/wiki/JavaScript_Programming
-
->This course comprises 16 lessons on JavaScript programming. Each lesson includes a combination of Wikipedia and Internet-based readings, YouTube videos, and hands-on learning activities. The entire course can be downloaded in book form by selecting Download Learning Guide in the sidebar.
 
 ## GitHub Searches
 
