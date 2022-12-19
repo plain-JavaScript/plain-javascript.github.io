@@ -1,7 +1,66 @@
-# plain-JavaScript.github.io
+# https://plain-JavaScript.github.io
 
-A list of resources for developers of plain vanilla JavaScript
+This repository lists resources for developers of plain vanilla JavaScript.
 
+JavaScript is perhaps the most widely used computer language. Almost any computing task - no matter howe complicated - has been accomplished with JavaScript. Some of the smartest people in the world investigate the most difficult issues using JavaScript.
+
+So where does that leave us simple folk?
+
+The good news:
+
+The fastest, easiest and simplest way to get stuff on the Internet is: JavaScript
+
+If you can type the following into a text file and drag that file into a browser, you may call yourself a programmer
+
+``` JavaScript
+<script>
+    document.write("Hello, World!")
+</script>
+```
+
+This repository is dedicated to helping us [KISS]( https://en.wikipedia.org/wiki/KISS_principle ) people play with JavaScript in simple, fun useful ways.
+
+It wants to show that JavaScript covers a huge range of possibilities while at the same time demonstrating that much can be accomplished with tiny amounts of code.
+
+2022-12-18 ~ This is my second day on this project. It is a work-in-progress. My goal is to spend an hour or so a day in this effort - until such time I feel that the effort is worth sharing. ❧ Theo Armour
+
+
+## Standards References
+
+JavaScript is a language with a free and open source specification
+
+
+### https://www.ecma-international.org/technical-committees/tc39/
+
+* https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+
+
+### https://www.w3.org/standards/webdesign/script
+
+>While the most common scripting language ECMAscript (more widely known as JavaScript) is developed by Ecma, a great many of the APIs made available in browsers have been defined at W3C.
+
+### https://www.khronos.org/
+
+>Khronos royalty-free open standards for 3D graphics, Virtual and Augmented Reality, Parallel Computing, Machine Learning, and Vision Processing
+
+
+## Wikimedia Foundation Projects relating to JavaScript
+
+
+### https://en.wikipedia.org/wiki/JavaScript
+
+>JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
+
+
+### https://en.wikibooks.org/wiki/JavaScript
+
+>The Wikibook on hand is intended as a guide for WEB developers who want to learn the basics of the programming language JavaScript. It offers short descriptions of concepts, syntax, context, and JavaScript-related technologies, as well as code examples and exercises. Additional links lead the reader to in-depth information regarding the more complex features and such issues that have a loose relation to JavaScript. Especially the Wikiversity course JavaScript Programming offers a rich set of additional details and links to YouTube learning videos.
+* https://en.wikibooks.org/wiki/JavaScript/Links
+
+
+### https://en.wikiversity.org/wiki/JavaScript_Programming
+
+>This course comprises 16 lessons on JavaScript programming. Each lesson includes a combination of Wikipedia and Internet-based readings, YouTube videos, and hands-on learning activities. The entire course can be downloaded in book form by selecting Download Learning Guide in the sidebar.
 
 ## GitHub Searches
 
@@ -20,12 +79,6 @@ Repositories on GitHub relating to vanilla JavaScript
 * https://github.com/olawanlejoel/Awesome-Javascript-resources ~ links to articles
 * https://github.com/palashmon/awesome-js-posts ~ huge list of articles
 
-Resources on GitHub for learning JavaScript
-
-* https://developer.mozilla.org/en-US/docs/Learn
-* https://github.com/micromata/awesome-javascript-learning ~ curated
-* https://github.com/snipcart/learn-vanilla-js
-
 WebGPU
 
 * https://github.com/mikbry/awesome-webgpu
@@ -34,6 +87,40 @@ More
 
 * https://github.com/sajeebmahamed/Vanilla-JavaScript-Projects ~ his projects
 * https://github.com/gulraiznoorbari/Awesome-Vanilla-JavaScript-Projects ~ personal efforts - not list of links
+
+
+## Resources on for learning JavaScript
+
+* https://developer.mozilla.org/en-US/docs/Learn
+* https://www.w3schools.com/js/
+* https://www.codecademy.com/catalog/language/javascript
+* https://javascript.info/
+>The Modern JavaScript Tutorial ~ How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+* https://github.com/micromata/awesome-javascript-learning ~ curated
+* https://github.com/snipcart/learn-vanilla-js
+* https://javascript30.com/
+* https://skillcrush.com/blog/projects-you-can-do-with-javascript/
+
+Articles
+* https://codeburst.io/js-essentials-the-javascript-engine-302ff38e8465
+
+## Tools for Writing JavaScript
+
+* https://code.visualstudio.com/docs/languages/javascript
+>JavaScript in Visual Studio Code
+>Visual Studio Code includes built-in JavaScript IntelliSense, debugging, formatting, code navigation, refactorings, and many other advanced language features.
+
+
+
+## Tools for Analyzing
+
+* ESLint
+* JSHint
+* JSLint
+
+## Humans
+
+* https://www.codementor.io/javascript-experts
 
 
 ## Articles
@@ -54,20 +141,23 @@ Very long read covering a number of topics relating to the issues with building 
 
 ### https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
 
-## Links of Interest
+
+## Tools to Help Write JavaScript
+
+
+### https://www.30secondsofcode.org/
+
+> Code Snippets ~ 30 seconds of code provides a curated collection of short code snippets for all your development needs. Our collection spans many topics, ranging from simple coding problems to theoretical concepts and development techniques.
+
+## https://1loc.dev/
+
+>Favorite JavaScript utilities in single line of code! No more!
 
 ### https://vanillalist.top/ ~ Handpicked Vanilla JavaScript Plugins Repository
 
 * https://github.com/GuerrillaStudio/vanillalist
 
 Every plugin includes a demo. link to sources on GitHub and NPM
-
-
-### https://gomakethings.com/ ~ Chris Ferdinandi
-
-* https://vanillajstoolkit.com/helpers/
-* https://gist.github.com/cferdinandi
-
 
 
 ### https://github.com/frameworkless-movement/awesome-frameworkless
@@ -77,6 +167,17 @@ Every plugin includes a demo. link to sources on GitHub and NPM
 ### https://youmightnotneedjquery.com/
 
 >If you're developing a library on the other hand, please take a moment to consider if you actually need jQuery as a dependency. Maybe you can include a few lines of utility code, and forgo the requirement. If you're only targeting more modern browsers, you might not need anything more than what the browser ships with.
+
+### https://plainjs.com/
+
+### https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/
+
+
+## Tips
+
+* https://www.sitepoint.com/shorthand-javascript-techniques/
+* https://betterprogramming.pub/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-1-of-6-bc2bc890dfe5
+* https://dev.to/shadowwarior5/10-superpowers-that-html5-gives-you-and-you-are-not-using-4ph1
 
 
 ## Small Web
@@ -101,6 +202,35 @@ Links to a number of useful articles
 
 ## People
 
+### Chris Ferdinandi
+
+* https://gomakethings.com/
+* https://vanillajstoolkit.com/helpers/
+* https://gist.github.com/cferdinandi
+* https://vanillajsacademy.com/
+* https://learnvanillajs.com/
+
+
+## Brad Traversy
+
+* https://github.com/bradtraversy
+* https://github.com/bradtraversy/design-resources-for-developers#icons
+* https://github.com/bradtraversy/vanillawebprojects
+
+## Eric Wastl
+
+* https://github.com/topaz
+* https://adventofcode.com/
+* http://vanilla-js.com/
+*
+
 ### https://xem.github.io/
+
+
+## Not Plain JavaScript
+
+* https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
+
+
 
 ***
