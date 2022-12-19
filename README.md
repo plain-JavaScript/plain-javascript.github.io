@@ -127,6 +127,11 @@ More
 * https://github.com/snipcart/learn-vanilla-js
 * https://javascript30.com/
 * https://skillcrush.com/blog/projects-you-can-do-with-javascript/
+Build 15 JavaScript Projects - Vanilla JavaScript Course
+* https://www.youtube.com/watch?v=3PHXvlpOkf4
+What is Vanilla JS ? (Simple explanation for Beginners) [2022]
+* https://www.youtube.com/watch?v=rF5FlDoCcao
+
 
 Articles
 * https://codeburst.io/js-essentials-the-javascript-engine-302ff38e8465
@@ -151,6 +156,20 @@ Articles
 
 ## Articles
 
+* https://stackoverflow.com/questions/20435653/what-is-vanillajs
+* https://frontendmasters.com/blog/vanilla-javascript-todomvc/
+* https://www.javatpoint.com/what-is-vanilla-javascript
+* https://unclebigbay.com/difference-between-vanilla-javascript-and-javascript-explained
+* https://www.quora.com/What-is-Vanilla-JavaScript-Is-it-different-from-regular-JavaScript
+* https://www.software-developer-india.com/what-is-vanilla-javascript/
+* https://www.stechies.com/vanilla-javascript/
+* https://gomakethings.com/vanilla-javascript-and-old-school-ssgs-are-the-best-choices-for-web-performance/
+* https://www.johnpapa.net/render-html-2/
+* https://hackernoon.com/lets-talk-about-vanilla-javascript-what-is-vanilla-js-and-why-should-i-spend-any-time-on-it-sb2f3522
+* https://www.thatsoftwaredude.com/content/6343/the-benefits-of-coding-in-vanilla-javascript
+* https://www.becomebetterprogrammer.com/what-is-vanilla-javascript/
+* 
+
 ### Jérôme Beau: Design: #noFramework ~ https://javarome.medium.com/design-noframework-bbc00a02d9b3
 
 * https://news.ycombinator.com/item?id=30568699
@@ -165,17 +184,25 @@ Very long read covering a number of topics relating to the issues with building 
 ### Jeremy Likness: Build a Single Page Application (SPA) Site With Vanilla.js ~ https://blog.jeremylikness.com/blog/build-a-spa-site-with-vanillajs/
 >Modern JavaScript frameworks exist to address deficiencies in the capabilities provided out of the box by HTML5, JavaScript, CSS, and WebAssembly. The latest stable version of JavaScript (ECMAScript® 2015) evolved significantly compared to earlier versions, with better control over scope, powerful string manipulation capabilities, destructuring, parameter enhancements, and the built-in implementation of classes and modules (there is no longer a need to use IIFEs or immediately-invoked function expressions). The purpose of this post is to explore how to build modern apps using the latest JavaScript features.
 
+* https://blog.jeremylikness.com/blog/2019-04-09_vanilla.jsgetting-started/
+
 ### https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
 
 
+***
+
 ## Tools to Help Write JavaScript
+
+* https://htmldom.dev/
+* https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/
+* https://www.sitepoint.com/javascript/vanilla-javascript/
 
 
 ### https://www.30secondsofcode.org/
 
 > Code Snippets ~ 30 seconds of code provides a curated collection of short code snippets for all your development needs. Our collection spans many topics, ranging from simple coding problems to theoretical concepts and development techniques.
 
-## https://1loc.dev/
+### https://1loc.dev/
 
 >Favorite JavaScript utilities in single line of code! No more!
 
@@ -230,10 +257,12 @@ Links to a number of useful articles
 
 ### Chris Ferdinandi
 
-* https://gomakethings.com/
-* https://vanillajstoolkit.com/helpers/
 * https://gist.github.com/cferdinandi
+* https://gomakethings.com/
 * https://vanillajsacademy.com/
+* https://vanillajsguides.com/
+* https://vanillajspodcast.com/
+* https://vanillajstoolkit.com/helpers/
 * https://learnvanillajs.com/
 
 
@@ -256,7 +285,6 @@ Links to a number of useful articles
 ## Not Plain JavaScript
 
 * https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
-
 
 
 ***
