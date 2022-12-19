@@ -26,8 +26,9 @@ It wants to show that JavaScript covers a huge range of possibilities while at t
 
 2022-12-18 ~ This is my second day on this project. It is a work-in-progress. My goal is to spend an hour or so a day in this effort - until such time I feel that the effort is worth sharing. ❧ Theo Armour
 
-## Reference ~ Wikimedia Foundation projects relating to JavaScript
+***
 
+## Reference ~ Wikimedia Foundation projects relating to JavaScript
 
 ### Wikipedia ~ https://en.wikipedia.org/wiki/JavaScript
 
@@ -55,12 +56,12 @@ The JavaScript Wikibook provides a detailed overview of the language. It's more 
 
 The material in the Wikiversity JavaScript course appear to be a great resource for helping teachers prepare college and advanced highschool level courses.
 
-***
 
 See also a variety of other JavaScript references in https://en.wikipedia.org/wiki/Wikipedia:Wikimedia_sister_projects
 
+***
 
-## Reference ~ Technical Standard.
+## Reference ~ Technical Standards
 
 JavaScript is a language with a free and open source specification. The specification of JavaScript is an [International Standard]( https://en.wikipedia.org/wiki/International_standard ) and is maintained by ecma-international.org. It is ISO/IEC 16262.
 
@@ -69,7 +70,6 @@ It is worth noting that only a few computer languages are maintained as technica
 ### https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 
 * https://www.ecma-international.org/technical-committees/tc39/
-
 
 
 ### https://www.w3.org/standards/webdesign/script
@@ -87,6 +87,7 @@ W3 and Khronos are two organizations developing and maintaining standards use to
 
 Future editions may list more standards bodies that help regulate JavaScript features.
 
+***
 
 ## GitHub Searches
 
@@ -115,7 +116,7 @@ More
 * https://github.com/gulraiznoorbari/Awesome-Vanilla-JavaScript-Projects ~ personal efforts - not list of links
 
 
-## Resources on for learning JavaScript
+## Resources for learning JavaScript
 
 * https://developer.mozilla.org/en-US/docs/Learn
 * https://www.w3schools.com/js/
@@ -135,7 +136,6 @@ Articles
 * https://code.visualstudio.com/docs/languages/javascript
 >JavaScript in Visual Studio Code
 >Visual Studio Code includes built-in JavaScript IntelliSense, debugging, formatting, code navigation, refactorings, and many other advanced language features.
-
 
 
 ## Tools for Analyzing
