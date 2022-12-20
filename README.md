@@ -90,6 +90,86 @@ Future editions may list more standards bodies that help regulate JavaScript fea
 
 ***
 
+
+## Articles
+
+The terms "Vanilla JavaScript", "Pure JavaScript" and "Plain JavaScript" are used quite frequently, but there are no hard and fast rules as to what these actually mean. On the web there appear to be just a few articles that attempt to define the category. Below are links to some of the articles we've found so far.
+
+
+### Jérôme Beau: "Design: #noFramework" 2022-02-27 ~ https://javarome.medium.com/design-noframework-bbc00a02d9b3
+
+* https://news.ycombinator.com/item?id=30568699
+
+>In the end, frameworks look like religions (or politics): each of them pretend to have the solution, but each of them is different. Each of them claim to provide the best vision of ̶t̶h̶e̶ ̶w̶o̶r̶l̶d̶ an app, but there are heated debates about which one holds the truth. Each of them requires you to follow specific rules and, while there may be similarities, it is always hard to convert from one to another.
+>
+>Let’s look at an “atheist” approach of frameworks: use none.
+
+This article is a very long read covering a number of topics relating to the issues with building pages using frameworks. Nice use of summary bullets. The article incudes useful links - many of which are used in these pages. _Merci beaucoup, Jérôme!_
+
+
+### Jeremy Likness: Build a Single Page Application (SPA) Site With Vanilla.js ~ https://blog.jeremylikness.com/blog/build-a-spa-site-with-vanillajs/
+>Modern JavaScript frameworks exist to address deficiencies in the capabilities provided out of the box by HTML5, JavaScript, CSS, and WebAssembly. The latest stable version of JavaScript (ECMAScript® 2015) evolved significantly compared to earlier versions, with better control over scope, powerful string manipulation capabilities, destructuring, parameter enhancements, and the built-in implementation of classes and modules (there is no longer a need to use IIFEs or immediately-invoked function expressions). The purpose of this post is to explore how to build modern apps using the latest JavaScript features.
+
+* https://blog.jeremylikness.com/blog/2019-04-09_vanilla.jsgetting-started/
+
+### https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
+
+### More
+
+* https://stackoverflow.com/questions/20435653/what-is-vanillajs
+* https://frontendmasters.com/blog/vanilla-javascript-todomvc/
+* https://www.javatpoint.com/what-is-vanilla-javascript
+* https://unclebigbay.com/difference-between-vanilla-javascript-and-javascript-explained
+* https://www.quora.com/What-is-Vanilla-JavaScript-Is-it-different-from-regular-JavaScript
+* https://www.software-developer-india.com/what-is-vanilla-javascript/
+* https://www.stechies.com/vanilla-javascript/
+* https://gomakethings.com/vanilla-javascript-and-old-school-ssgs-are-the-best-choices-for-web-performance/
+* https://www.johnpapa.net/render-html-2/
+* https://hackernoon.com/lets-talk-about-vanilla-javascript-what-is-vanilla-js-and-why-should-i-spend-any-time-on-it-sb2f3522
+* https://www.thatsoftwaredude.com/content/6343/the-benefits-of-coding-in-vanilla-javascript
+* https://www.becomebetterprogrammer.com/what-is-vanilla-javascript/
+
+
+
+## Books
+
+### Francesco Strazzullo ~ _Frameworkless Front-End Development: Do You Control Your Dependencies Or Are They Controlling You?_ ~ 2019
+
+*  https://www.amazon.com/Frameworkless-Front-End-Development-Dependencies-Controlling/dp/1484249666
+
+>Explore an alternative method of front-end application development without using frameworks or third-party libraries. This book provides you with the required skills and freedom to consider a “no framework” approach when choosing a technology for creating a new project.
+>
+>You’ll work through the most important issues in a clear and sensible way, using practical methods and tools to gain an understanding of non-functional requirements. This book answers questions on important topics such as state management, making a routing system, creating a REST client using fetch, and reveals the trade-offs and risks associated with choosing the wrong framework or tool for your project, as well as providing sustainable, functional alternatives.
+>
+>Frameworkless Front-End Development breaks down the concept of technical debt and the ways in which a framework can impact the lifespan of a project. Along with gaining a comprehensive and clear guide on coding effectively from scratch without frameworks, you will also learn some principles of technical decision-making.
+
+
+## Videos
+
+### dotJS 2017 -Adrian Holovaty - A framework author's case against frameworks ~ https://www.youtube.com/watch?v=VvOsegaN9Wk
+> Adrian cowrote Django, a prominent server-side framework, yet he has come to believe that front-end frameworks are unnecessary for his own projects. Here's his impassioned argument for avoiding JavaScript frameworks on the front end.
+
+
+## Web Sites
+
+### Frameworkless Movement ~ https://www.frameworklessmovement.org/
+
+> The Frameworkless Movement is a group of developers interested in developing applications without frameworks. We don't hate frameworks, nor we will ever create campaigns against frameworks, but we perceive the misuse of frameworks as a lack of knowledge regarding technical debt and the availability of alternatives given by the vanilla language or by dedicated libraries.
+
+* https://github.com/frameworkless-movement/manifesto
+
+>Principles
+>Everytime that we consider the choice of a framework for a project we will use these principles to guide our choices.
+>* The value of a software is not the code itself but in the reasons behind the existence of that code.
+>* Every decision should be made considering the context. A good choice in a given context could be a bad choice in another one.
+>* The mindful choice of a framework is a technical one and should be made by technical people, taking business needs into account.
+>* The decision-making criteria that led to the choice of a framework should be known to all the members in the team.
+
+The ideas of the Frameworkless Movement may be applied to any language, not just JavaScript.
+
+***
+
+
 ## GitHub Searches
 
 Links to searches on GitHub that may bring up items of interest
@@ -116,6 +196,7 @@ More
 * https://github.com/sajeebmahamed/Vanilla-JavaScript-Projects ~ his projects
 * https://github.com/gulraiznoorbari/Awesome-Vanilla-JavaScript-Projects ~ personal efforts - not list of links
 
+***
 
 ## Resources for learning JavaScript
 
@@ -150,47 +231,7 @@ Articles
 * JSHint
 * JSLint
 
-## Humans
 
-* https://www.codementor.io/javascript-experts
-
-
-## Articles
-
-* https://stackoverflow.com/questions/20435653/what-is-vanillajs
-* https://frontendmasters.com/blog/vanilla-javascript-todomvc/
-* https://www.javatpoint.com/what-is-vanilla-javascript
-* https://unclebigbay.com/difference-between-vanilla-javascript-and-javascript-explained
-* https://www.quora.com/What-is-Vanilla-JavaScript-Is-it-different-from-regular-JavaScript
-* https://www.software-developer-india.com/what-is-vanilla-javascript/
-* https://www.stechies.com/vanilla-javascript/
-* https://gomakethings.com/vanilla-javascript-and-old-school-ssgs-are-the-best-choices-for-web-performance/
-* https://www.johnpapa.net/render-html-2/
-* https://hackernoon.com/lets-talk-about-vanilla-javascript-what-is-vanilla-js-and-why-should-i-spend-any-time-on-it-sb2f3522
-* https://www.thatsoftwaredude.com/content/6343/the-benefits-of-coding-in-vanilla-javascript
-* https://www.becomebetterprogrammer.com/what-is-vanilla-javascript/
-*
-
-### Jérôme Beau: Design: #noFramework ~ https://javarome.medium.com/design-noframework-bbc00a02d9b3
-
-* https://news.ycombinator.com/item?id=30568699
-
->In the end, frameworks look like religions (or politics): each of them pretend to have the solution, but each of them is different. Each of them claim to provide the best vision of ̶t̶h̶e̶ ̶w̶o̶r̶l̶d̶ an app, but there are heated debates about which one holds the truth. Each of them requires you to follow specific rules and, while there may be similarities, it is always hard to convert from one to another.
->
->Let’s look at an “atheist” approach of frameworks: use none.
-
-Very long read covering a number of topics relating to the issues with building pages using frameworks. Nice use of summary bullets. Incudes useful links
-
-
-### Jeremy Likness: Build a Single Page Application (SPA) Site With Vanilla.js ~ https://blog.jeremylikness.com/blog/build-a-spa-site-with-vanillajs/
->Modern JavaScript frameworks exist to address deficiencies in the capabilities provided out of the box by HTML5, JavaScript, CSS, and WebAssembly. The latest stable version of JavaScript (ECMAScript® 2015) evolved significantly compared to earlier versions, with better control over scope, powerful string manipulation capabilities, destructuring, parameter enhancements, and the built-in implementation of classes and modules (there is no longer a need to use IIFEs or immediately-invoked function expressions). The purpose of this post is to explore how to build modern apps using the latest JavaScript features.
-
-* https://blog.jeremylikness.com/blog/2019-04-09_vanilla.jsgetting-started/
-
-### https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
-
-
-***
 
 ## Tools to Help Write JavaScript
 
@@ -234,25 +275,10 @@ Every plugin includes a demo. link to sources on GitHub and NPM
 * https://dev.to/shadowwarior5/10-superpowers-that-html5-gives-you-and-you-are-not-using-4ph1
 
 
-## Small Web
+## Humans
 
-### https://github.com/frameworkless-movement/
+* https://www.codementor.io/javascript-experts
 
->The Frameworkless Movement is a group of developers interested in developing applications without frameworks. We don't hate frameworks, nor we will ever create campaigns against frameworks, but we perceive the misuse of frameworks as a lack of knowledge regarding technical debt and the availability of alternatives given by the vanilla language or by dedicated libraries.
-
-* https://github.com/frameworkless-movement/awesome-frameworkless
-
-Links to a number of useful articles
-
-### https://en.wikipedia.org/wiki/Demoscene ~ Demoscene
-
->The demoscene is an international computer art subculture focused on producing demos: self-contained, sometimes extremely small, computer programs that produce audiovisual presentations. The purpose of a demo is to show off programming, visual art, and musical skills. Demos and other demoscene productions (graphics, music, videos, games) are shared at festivals known as demoparties, voted on by those who attend and released online.
-
-### https://benhoyt.com/writings/the-small-web-is-beautiful/ ~ Ben Hoyt: The small web is beautiful
-
-* https://news.ycombinator.com/item?id=26305585
-
->Summary: I believe that small websites are compelling aesthetically, but are also important to help us resist selling our souls to large tech companies. In this essay I present a vision for the “small web” as well as the small software and architectures that power it. Also, a bonus rant about microservices.
 
 ## People
 
@@ -281,6 +307,27 @@ Links to a number of useful articles
 *
 
 ### https://xem.github.io/
+
+
+## Small Web
+
+### https://github.com/frameworkless-movement/
+
+>The Frameworkless Movement is a group of developers interested in developing applications without frameworks. We don't hate frameworks, nor we will ever create campaigns against frameworks, but we perceive the misuse of frameworks as a lack of knowledge regarding technical debt and the availability of alternatives given by the vanilla language or by dedicated libraries.
+
+* https://github.com/frameworkless-movement/awesome-frameworkless
+
+Links to a number of useful articles
+
+### https://en.wikipedia.org/wiki/Demoscene ~ Demoscene
+
+>The demoscene is an international computer art subculture focused on producing demos: self-contained, sometimes extremely small, computer programs that produce audiovisual presentations. The purpose of a demo is to show off programming, visual art, and musical skills. Demos and other demoscene productions (graphics, music, videos, games) are shared at festivals known as demoparties, voted on by those who attend and released online.
+
+### https://benhoyt.com/writings/the-small-web-is-beautiful/ ~ Ben Hoyt: The small web is beautiful
+
+* https://news.ycombinator.com/item?id=26305585
+
+>Summary: I believe that small websites are compelling aesthetically, but are also important to help us resist selling our souls to large tech companies. In this essay I present a vision for the “small web” as well as the small software and architectures that power it. Also, a bonus rant about microservices.
 
 
 ## Not Plain JavaScript
