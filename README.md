@@ -47,7 +47,7 @@ See also
 
 * https://en.wikibooks.org/wiki/JavaScript/Links
 
-The JavaScript Wikibook provides a detailed overview of the language. It's more of a reference manual people with some JavaScript experience than a learning resources for beginners. As with many Wiki efforts, it's great in some places and lacking in others. Perhapd the biggest issue is that it is no always up to date with features in the latest releases. For example, https://en.wikibooks.org/wiki/JavaScript/Arrays#Properties_and_methods leaves out many options. Perhaps, the greatest strengths are the extensive lists of links to relevant resources.
+The JavaScript Wikibook provides a detailed overview of the language. It's more of a reference manual people with some JavaScript experience than a learning resources for beginners. As with many Wiki efforts, it's great in some places and lacking in others. Perhapd the biggest issue is that it is no always up to date with features in the latest releases. For example, [Arrays#Properties_and_methods]( https://en.wikibooks.org/wiki/JavaScript/Arrays#Properties_and_methods ) leaves out many options. Perhaps, the greatest strengths are the extensive lists of links to relevant resources.
 
 
 ### Wikiversity: https://en.wikiversity.org/wiki/JavaScript_Programming
@@ -61,25 +61,26 @@ See also a variety of other JavaScript references in https://en.wikipedia.org/wi
 
 ***
 
-## Reference ~ Technical Standards
+## Reference ~ Technical Standards and Specifications
 
 JavaScript is a language with a free and open source specification. The specification of JavaScript is an [International Standard]( https://en.wikipedia.org/wiki/International_standard ) and is maintained by ecma-international.org. It is ISO/IEC 16262.
 
 It is worth noting that only a few computer languages are maintained as technical standards. These include C, C++, COBOL, Fortran and Ruby. Note that PHP, Python, Perl, Swift and Rust are privately maintained.
 
-### https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+
+### ECMA ~ https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 
 * https://www.ecma-international.org/technical-committees/tc39/
 
 
-### https://www.w3.org/standards/webdesign/script
+### W3 ~  https://www.w3.org/standards/webdesign/script
 
 >While the most common scripting language ECMAscript (more widely known as JavaScript) is developed by Ecma, a great many of the APIs made available in browsers have been defined at W3C.
 
 Standards maintained by W3 include: Audio, Canvas, CORS, DOM, DOM events, EME File, Geolocation, IndexedDB, MSE, SSE, SVG, Video, WebAssembly, WebAuthn, WebGPU, WebRTC, WebSocket, WebXR, Web messaging, Web storage, Web worker, and XMLHttpRequest
 
 
-### https://www.khronos.org/
+### Khronos ~ https://www.khronos.org/
 
 >Khronos royalty-free open standards for 3D graphics, Virtual and Augmented Reality, Parallel Computing, Machine Learning, and Vision Processing. Khronos develops and maintains WebGL ~ https://en.wikipedia.org/wiki/WebGL and WebCL.
 
@@ -168,7 +169,7 @@ Articles
 * https://hackernoon.com/lets-talk-about-vanilla-javascript-what-is-vanilla-js-and-why-should-i-spend-any-time-on-it-sb2f3522
 * https://www.thatsoftwaredude.com/content/6343/the-benefits-of-coding-in-vanilla-javascript
 * https://www.becomebetterprogrammer.com/what-is-vanilla-javascript/
-* 
+*
 
 ### Jérôme Beau: Design: #noFramework ~ https://javarome.medium.com/design-noframework-bbc00a02d9b3
 
