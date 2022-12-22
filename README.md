@@ -28,7 +28,10 @@ This repository is dedicated to helping us [KISS]( https://en.wikipedia.org/wiki
 
 It wants to show that JavaScript covers a huge range of possibilities while at the same time demonstrating that much can be accomplished with tiny amounts of code.
 
-2022-12-18 ~ This is my second day on this project. It is a work-in-progress. My goal is to spend an hour or so a day in this effort - until such time I feel that the effort is worth sharing. ❧ Theo Armour
+## 2022-12-22
+
+A new file: [journal.md]( https://plain-JavaScript.github.io/#journal.md ) is added.
+
 
 ***
 
