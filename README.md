@@ -32,6 +32,7 @@ It wants to show that JavaScript covers a huge range of possibilities while at t
 
 A new file: [journal.md]( https://plain-JavaScript.github.io/#journal.md ) is added.
 
+We are still dozens of links short of being ready to share with the world, but if you happen to stop by, please say hello by adding by opening an isse
 
 ***
 
