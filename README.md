@@ -1,6 +1,6 @@
 # Plain JavaScript
 
-_Awesome list of the many aspects of simple, fast easy JavaScript_
+_Awesome list of curated links to the many wonderful aspects of simple, fast easy JavaScript_
 
 ## Links: https://plain-JavaScript.github.io ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io )
 
