@@ -130,18 +130,24 @@ The terms "Vanilla JavaScript", "Pure JavaScript" and "Plain JavaScript" are use
 >
 >Let’s look at an “atheist” approach of frameworks: use none.
 
-This article is a very long read covering a number of topics relating to the issues with building pages using frameworks. Nice use of summary bullets. The article incudes useful links - many of which are used in these pages. _Merci beaucoup, Jérôme!_
+This article is a very long read covering a number of topics relating to the issues with building pages using frameworks. Nice use of summary bullets. The article incudes useful links - many of which are used in these pages. It's the best summary of the issues with the most full set of links that we we have seen. _Merci beaucoup, Jérôme!_
+
+* 2022-02-23 ~ https://javarome.medium.com/framework-or-library-6711f998d978#8e2b
 
 
 ### Jeremy Likness: Build a Single Page Application (SPA) Site With Vanilla.js ~ https://blog.jeremylikness.com/blog/build-a-spa-site-with-vanillajs/
+
 >Modern JavaScript frameworks exist to address deficiencies in the capabilities provided out of the box by HTML5, JavaScript, CSS, and WebAssembly. The latest stable version of JavaScript (ECMAScript® 2015) evolved significantly compared to earlier versions, with better control over scope, powerful string manipulation capabilities, destructuring, parameter enhancements, and the built-in implementation of classes and modules (there is no longer a need to use IIFEs or immediately-invoked function expressions). The purpose of this post is to explore how to build modern apps using the latest JavaScript features.
 
 * https://blog.jeremylikness.com/blog/2019-04-09_vanilla.jsgetting-started/
+
 
 ### https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
 
 ### More
 
+* 2022-05-03 ~ https://www.jackfranklin.co.uk/blog/working-with-react-and-the-web-platform/
+* 2022-05-03 ~ https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
 * https://stackoverflow.com/questions/20435653/what-is-vanillajs
 * https://frontendmasters.com/blog/vanilla-javascript-todomvc/
 * https://www.javatpoint.com/what-is-vanilla-javascript
@@ -154,6 +160,12 @@ This article is a very long read covering a number of topics relating to the iss
 * https://hackernoon.com/lets-talk-about-vanilla-javascript-what-is-vanilla-js-and-why-should-i-spend-any-time-on-it-sb2f3522
 * https://www.thatsoftwaredude.com/content/6343/the-benefits-of-coding-in-vanilla-javascript
 * https://www.becomebetterprogrammer.com/what-is-vanilla-javascript/
+
+2017
+* https://www.smashingmagazine.com/2017/05/why-no-framework/
+2016
+* 2016 ~ https://medium.com/hackernoon/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.758uh588b
+
 
 
 
