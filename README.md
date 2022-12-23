@@ -1,14 +1,14 @@
 # Plain JavaScript
 
-_Awesome list of curated links to the many wonderful aspects of simple, fast easy JavaScript_
+_Awesome list of curated links to the many wonderful aspects of simple, fast and future-proof JavaScript_
 
 ## Links: https://plain-JavaScript.github.io ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io )
 
-This repository provides lists of links to resources for developers of applications based on the JavaScript programming language. The particular emphasis here is on plain "vanilla" scripts that are simple, free and easy on the brain.
+This repository provides lists of links to resources for developers of applications based on the JavaScript programming language. The particular emphasis here is on plain ["vanilla"]( https://en.wikipedia.org/wiki/Vanilla_software ) scripts that are simple, free and easy on the brain.
 
 ***
 
-JavaScript is perhaps the most widely used computer language. Almost any computing task - no matter howe complicated - has been accomplished with JavaScript. Some of the smartest people in the world investigate the most difficult issues using JavaScript.
+JavaScript is perhaps the most widely used computer language. Almost any computing task - no matter howe complicated - has been <s>hacked</s> accomplished with JavaScript. Some of the smartest people in the world investigate the most difficult issues using JavaScript.
 
 So where does that leave us simple folk?
 
@@ -26,13 +26,33 @@ If you can type the following into a text file and drag that file into a browser
 
 This repository is dedicated to helping us [KISS]( https://en.wikipedia.org/wiki/KISS_principle ) people play with JavaScript in simple, fun useful ways.
 
-It wants to show that JavaScript covers a huge range of possibilities while at the same time demonstrating that much can be accomplished with tiny amounts of code.
+We want to show you that JavaScript covers a huge range of possibilities while at the same time demonstrating that much can be accomplished with tiny amounts of code.
+
+## Target Audiences
+
+### Beginners
+
+Are you a youngster and want to play with computers?
+
+### STEAM skills but little programming experience
+
+Are you an archeologist, violin maker, nurse-practitioner or just some one highly involved with technical things?
+
+
+### Programmers who write programs in languages that are not JavaScript
+
+Are you a whizz at Python, and hold you nose when you have to lower yourself into JavaScript gobbledygook?
+<br>
+
+Well, you have come to the right place ( or wil do when this list progresses a bit more)
+
+***
 
 ## 2022-12-22
 
-A new file: [journal.md]( https://plain-JavaScript.github.io/#journal.md ) is added.
+A new file: [journal.md]( https://plain-JavaScript.github.io/index.html#journal.md ) is added.
 
-We are still dozens of links short of being ready to share with the world, but if you happen to stop by, please say hello by adding by opening an isse
+We are still dozens of links short of being ready to share with the world, but if you happen to stop by, please say hello by adding by opening an issue
 
 ***
 
@@ -135,20 +155,51 @@ This article is a very long read covering a number of topics relating to the iss
 
 * 2022-02-23 ~ https://javarome.medium.com/framework-or-library-6711f998d978#8e2b
 
+### 2020? ~ Jeremy Likness ~ Vanilla.js (Series: 4 Parts Total) ~  https://blog.jeremylikness.com/series/vanilla.js
 
-### Jeremy Likness: Build a Single Page Application (SPA) Site With Vanilla.js ~ https://blog.jeremylikness.com/blog/build-a-spa-site-with-vanillajs/
+This page provides links to four of Jeremy's posts on vanilla .js
+
+The posts are more of a "how-to do it" than "Why do it this way". The posts are well-organized and cover a good range of issues that developers face that can be solved with JavaScript alone.
+
+Links with descriptions to two of the posts are listed just below.
+
+
+### 2019-04-09 ~ Jeremy Likness ~ Vanilla.js — Getting Started ~ https://blog.jeremylikness.com/blog/2019-04-09_vanilla.jsgetting-started/
+
+>Build web code with a zero-footprint web framework
+>
+>This guide shows you how to build and run a simple Vanilla.js app. You’ll use a text editor to develop your app and use the JavaScript language features that benefit every Vanilla.js project.
+
+Here id the demo you will build:
+
+* https://jsfiddle.net/jeremylikness/q1tvzdrn/
+
+
+### 2020-02-26 ~ Jeremy Likness: Build a Single Page Application (SPA) Site With Vanilla.js ~ https://blog.jeremylikness.com/blog/build-a-spa-site-with-vanillajs/
+
+The one framework you don't have to install
 
 >Modern JavaScript frameworks exist to address deficiencies in the capabilities provided out of the box by HTML5, JavaScript, CSS, and WebAssembly. The latest stable version of JavaScript (ECMAScript® 2015) evolved significantly compared to earlier versions, with better control over scope, powerful string manipulation capabilities, destructuring, parameter enhancements, and the built-in implementation of classes and modules (there is no longer a need to use IIFEs or immediately-invoked function expressions). The purpose of this post is to explore how to build modern apps using the latest JavaScript features.
 
 * https://blog.jeremylikness.com/blog/2019-04-09_vanilla.jsgetting-started/
 
 
-### https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
+### 2020-10-08 ~ Jim Nielson ~ https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
+
+>I have a number of old side projects which I occasionally have to revisit. The structure of these projects broadly falls under two categories:
+>1. Ones I built with a mindset of having my starting point be the most basic, native web technology available. From that foundation, I enhanced functionality through layering on more sophisticated and experimental techniques, APIs, etc., where supported. All code was authored in vanilla HTML, CSS, and JavaScript.
+>2. Ones I built with a mindset of having my starting point be abstractions of native web technology (frameworks, tooling, language sub/supersets).
+>When I open an old project like number two (described above), I find entropy staring me back in the face: library updates, breaking API changes, refactored mental models, and possible downright obsolescence. An incredible amount of effort will be required to make a simple change, test it, and get it live.
+>
+>Conversely when I open an old project like number one (described above), I find myself relieved. A project authored in native web technologies, enhanced with an eye towards the future, with little or no tooling, leaves me facing few obstacles. Remove a couple shims that are no longer needed and that’s about it. Imagine that: you can remove code to update a project?
+
+A short and rational summary as to why vanilla HTML, CSS, and JS is the most future-proof code you can write.
+
 
 ### More
 
 * 2022-05-03 ~ https://www.jackfranklin.co.uk/blog/working-with-react-and-the-web-platform/
-* 2022-05-03 ~ https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
+
 * https://stackoverflow.com/questions/20435653/what-is-vanillajs
 * https://frontendmasters.com/blog/vanilla-javascript-todomvc/
 * https://www.javatpoint.com/what-is-vanilla-javascript
@@ -382,5 +433,11 @@ Links to a number of useful articles
 
 * https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
 
+
+### 2022-05-03 ~ Josh Comeau ~ https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
+
+>Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.
+
+Don't be fooled by the headline. Author says you may not need a UI Framework, but he still expects you to use React.
 
 ***

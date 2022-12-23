@@ -1,6 +1,13 @@
-# journal
+# Journal
 
 ## Links: https://plain-JavaScript.github.io/#journal.md ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io/blob/main/journal.md )
+
+
+## 2022-12-23
+
+Added descriptions to four articles
+
+Started a Target Audience section
 
 
 ## 2022-12-22
@@ -12,7 +19,7 @@ Time will tell. Observations will be made. Guidelines and rules will be created.
 Until then, it's complicated.
 
 Some thoughts:
-* I'd rather start with being more inclusive then less. [There is Wikipedia concept arounf this. Whart is its name.]
+* I'd rather start with being more inclusive then less. [There is Wikipedia concept around this. What is its name?]
 * In whatever topic being addressed where there is significant "fully-leaded" JavaScriptcontent, it will be nice to provide links to relevant "awesome lists" on that topic
 * If for some reason, a link is dropped from a topic because it is no longer seen as relevant, then I hope it may still appear in an archive somewhere - with a not indicating the reason why the link was demoted. Knowing why something is deleted may be as important as to why it was added.
 
