@@ -32,19 +32,25 @@ We want to show you that JavaScript covers a huge range of possibilities while a
 
 ### Beginners
 
-Are you a youngster and want to play with computers?
+Are you a youngster and want to play with computers? A program that runs a JavaScript script is available on virtually computers, tablets and phones. Ditto the software to write programs - a text editor. So you can start today.
+
 
 ### STEAM skills but little programming experience
 
-Are you an archeologist, violin maker, nurse-practitioner or just some one highly involved with technical things?
+Are you an archeologist, violin maker, nurse-practitioner or just some one highly involved with technical things? As you already know software can provide benefit to almost any field of endeavor.
+
+If you have never programmed, then JavaScript is fast easy way to start
+
+If you have programmed, but aee looking to share your knowledge on the web, or create interactive apps to share or need the attributes of a game-like environment then JavaScript can be at your service.
 
 
 ### Programmers who write programs in languages that are not JavaScript
 
-Are you a whizz at Python, and hold you nose when you have to lower yourself into JavaScript gobbledygook?
+Are you a whizz at Python, and hold you nose when you have to lower yourself into JavaScript gobbledygook? Well, a lot of that stuff is all the tricks needed to be called a "full-stack developer". Well, if you don't need to call yourself a full-stack developer and just want to get some necessary things done in JavaScript, then there is a fully-documented, well-supported alternative: plain, ordinary JavaScript.
+
 <br>
 
-Well, you have come to the right place ( or wil do when this list progresses a bit more)
+Well, you have come to the right place ( or will do when this list progresses a bit more)
 
 ***
 
@@ -193,18 +199,36 @@ The one framework you don't have to install
 >
 >Conversely when I open an old project like number one (described above), I find myself relieved. A project authored in native web technologies, enhanced with an eye towards the future, with little or no tooling, leaves me facing few obstacles. Remove a couple shims that are no longer needed and that’s about it. Imagine that: you can remove code to update a project?
 
-A short and rational summary as to why vanilla HTML, CSS, and JS is the most future-proof code you can write.
+Nielson provides a short and rational summary as to why vanilla HTML, CSS, and JS is the most future-proof code you can write.
+
+### 2013-12-06 ~ StackOverflow user13778911 ~ What is VanillaJS? ~ https://stackoverflow.com/questions/20435653/what-is-vanillajs
+
+>I have one simple question, that got stuck in my mind for a few days: What is VanillaJS? Some people refer to it as a framework, you can download a library from the official pages.
+
+In referring to the "official pages, the poster is very likely referring to http://vanilla-js.com/
+
+This website is a joke. It states "Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications." It pretend that Vanilla JavaScript is a framework that can compete with jQuery, Dojo annd presumably React, Angular and others.
+
+Unfortunately may naive people who google "vanilla JavaScript" get to this site and are very confused about things.
+
+Because of the vanillajs.com  website and because [plain vanilla]( https://en.wikipedia.org/wiki/Plain_vanilla ) is an English idiom that may not be familiar to non-English speakers, we tend tpo avoid its usage preferring "plain JavaScript".
+
+See also: https://unclebigbay.com/difference-between-vanilla-javascript-and-javascript
 
 
-### More
+### 2021-04-28 ~ Ayodele Samuel Adebayo ~ Difference Between Vanilla JavaScript and JavaScript (Explained)
 
-* 2022-05-03 ~ https://www.jackfranklin.co.uk/blog/working-with-react-and-the-web-platform/
+The bulk of this article explaining the term "plain vanilla". It also includes a simple description of the difference JavaScrip with and without frameworks
 
-* https://stackoverflow.com/questions/20435653/what-is-vanillajs
+
+### More Articles
+
+Links to more articles and comments will added
+
 * https://frontendmasters.com/blog/vanilla-javascript-todomvc/
-* https://www.javatpoint.com/what-is-vanilla-javascript
 * https://unclebigbay.com/difference-between-vanilla-javascript-and-javascript-explained
 * https://www.quora.com/What-is-Vanilla-JavaScript-Is-it-different-from-regular-JavaScript
+* https://www.javatpoint.com/what-is-vanilla-javascript
 * https://www.software-developer-india.com/what-is-vanilla-javascript/
 * https://www.stechies.com/vanilla-javascript/
 * https://gomakethings.com/vanilla-javascript-and-old-school-ssgs-are-the-best-choices-for-web-performance/
@@ -213,9 +237,15 @@ A short and rational summary as to why vanilla HTML, CSS, and JS is the most fut
 * https://www.thatsoftwaredude.com/content/6343/the-benefits-of-coding-in-vanilla-javascript
 * https://www.becomebetterprogrammer.com/what-is-vanilla-javascript/
 
+2022
+
+* 2022-05-03 ~ https://www.jackfranklin.co.uk/blog/working-with-react-and-the-web-platform/
+
 2017
 * https://www.smashingmagazine.com/2017/05/why-no-framework/
+
 2016
+
 * 2016 ~ https://medium.com/hackernoon/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.758uh588b
 
 
@@ -371,7 +401,27 @@ More
 
 ## Sources ~ People
 
+One of the great joys of JavaScript is the huge quantity of free, open-source scripts that developes make available for you to observe, enjoy and build upon. Many scripts are plain JavaScript and many other use libraries. There are thousands of people sharing their knowledge in this manner. Below is a work-in-progress list of developers listed alphabetically by first name (following the style of Wikipedia) with links to some of their efforts that might be relevant.
+
+### Branislav Ulicny
+
+* https://alteredqualia.com/
+
+### Brendan Eich
+
+* https://brendaneich.com/
+
+### Brad Traversy
+
+* https://github.com/bradtraversy
+* https://github.com/bradtraversy/design-resources-for-developers
+* https://github.com/bradtraversy/vanillawebprojects
+
 ### Chris Ferdinandi
+
+[Chris]( https://gomakethings.com/about/ ) is perhaps the most popular figure in the world of discussions on plain JavaScript.
+
+Here are some links to his numerouse available resources.
 
 * https://gist.github.com/cferdinandi
 * https://gomakethings.com/
@@ -381,21 +431,68 @@ More
 * https://vanillajstoolkit.com/helpers/
 * https://learnvanillajs.com/
 
+### Douglas Crockford
 
-### Brad Traversy
-
-* https://github.com/bradtraversy
-* https://github.com/bradtraversy/design-resources-for-developers#icons
-* https://github.com/bradtraversy/vanillawebprojects
+* http://crockford.com/javascript/
+* https://en.wikipedia.org/wiki/Douglas_Crockford
 
 ### Eric Wastl
 
 * https://github.com/topaz
-* https://adventofcode.com/
-* http://vanilla-js.com/
-*
+* https://adventofcode.com/ ~ See https://en.wikipedia.org/wiki/Advent_of_Code
+* http://vanilla-js.com/ ~ a joke site that confuses everybody
 
-### https://xem.github.io/
+### Evgeny Demidov
+
+* http://www.ipm.sci-nnov.ru/~Demidov/
+* https://www.ibiblio.org/e-notes/webgl/webgl.htm
+
+
+### Felix Turner
+
+* https://airtight.cc/
+
+### Jerome Etienne
+
+* http://jetienne.com/portfolio/
+* https://github.com/jeromeetienne
+
+
+
+### Lo Th
+
+* https://github.com/lo-th
+* http://lo-th.github.io/labs/index.html
+
+### Mario Alzugray
+
+* https://github.com/onedayitwillmake
+* http://onedayitwillmake.com/
+
+### Maxime Euziere
+
+Maxime is an expert at making tiny scripts that do amazing things, but guess what? There is a trade off: They are not easy.
+
+https://xem.github.io/
+
+I can spend hours playing with Maxime's efforts
+
+### Mike Bostock
+
+* https://bost.ocks.org/mike/
+* https://bost.ocks.org/mike/
+
+### Paul Burke
+
+* http://paulbourke.net/
+
+### Ricardo Cabello
+
+
+### Steve Wittens
+
+* https://github.com/unconed
+* https://acko.net/
 
 ## Sources ~ GitHub Searches
 
