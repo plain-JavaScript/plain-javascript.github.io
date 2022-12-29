@@ -4,6 +4,8 @@ _Awesome list of curated links to the many wonderful aspects of simple, fast and
 
 ## Links: https://plain-JavaScript.github.io ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io )
 
+* [Target Audiences]( #target )
+
 This repository provides lists of links to resources for developers of applications based on the JavaScript programming language. The particular emphasis here is on plain ["vanilla"]( https://en.wikipedia.org/wiki/Vanilla_software ) scripts that are simple, free and easy on the brain.
 
 ***
@@ -157,7 +159,7 @@ The terms "Vanilla JavaScript", "Pure JavaScript" and "Plain JavaScript" are use
 >
 >Let’s look at an “atheist” approach of frameworks: use none.
 
-This article is a very long read covering a number of topics relating to the issues with building pages using frameworks. Nice use of summary bullets. The article incudes useful links - many of which are used in these pages. It's the best summary of the issues with the most full set of links that we we have seen. _Merci beaucoup, Jérôme!_
+This article is a very long read covering a number of topics relating to the issues with building pages using frameworks. Nice use of summary bullets. The article incudes useful links - many of which are used in these pages. On the topic of JavaScript with no framework, it's the best summary of the issues with the most full set of links that we we have seen. _Merci beaucoup, Jérôme!_
 
 * 2022-02-23 ~ https://javarome.medium.com/framework-or-library-6711f998d978#8e2b
 
