@@ -4,7 +4,7 @@ _Awesome list of curated links to the many wonderful aspects of simple, fast and
 
 ## Links: https://plain-JavaScript.github.io ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io )
 
-* [Target Audiences]( #target )
+* [Target Audiences]( #target-audiences )
 
 This repository provides lists of links to resources for developers of applications based on the JavaScript programming language. The particular emphasis here is on plain ["vanilla"]( https://en.wikipedia.org/wiki/Vanilla_software ) scripts that are simple, free and easy on the brain.
 
