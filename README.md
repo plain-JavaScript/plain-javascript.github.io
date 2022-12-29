@@ -4,8 +4,18 @@ _Awesome list of curated links to the many wonderful aspects of simple, fast and
 
 ## Links: https://plain-JavaScript.github.io ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io )
 
-* [Target Audiences]( #target )
+## Table of Contents
 
+* [Introduction]( #Introduction )
+* [Target Audience]( #target-audience )
+* [Reference]( #Reference )
+* [Background]( #Background )
+* [Resources]( #Resources )
+* [Sources]( #Sources )
+* [Miscellany]( #Miscellany )
+
+
+## Introduction
 This repository provides lists of links to resources for developers of applications based on the JavaScript programming language. The particular emphasis here is on plain ["vanilla"]( https://en.wikipedia.org/wiki/Vanilla_software ) scripts that are simple, free and easy on the brain.
 
 ***
@@ -30,7 +40,14 @@ This repository is dedicated to helping us [KISS]( https://en.wikipedia.org/wiki
 
 We want to show you that JavaScript covers a huge range of possibilities while at the same time demonstrating that much can be accomplished with tiny amounts of code.
 
-## Target Audiences
+### 2022-12-22
+
+A new file: [journal.md]( https://plain-JavaScript.github.io/index.html#journal.md ) is added.
+
+We are still dozens of links short of being ready to share with the world, but if you happen to stop by, please say hello by adding by opening an issue
+
+
+## Target Audience
 
 ### Beginners
 
@@ -56,11 +73,7 @@ Well, you have come to the right place ( or will do when this list progresses a 
 
 ***
 
-## 2022-12-22
 
-A new file: [journal.md]( https://plain-JavaScript.github.io/index.html#journal.md ) is added.
-
-We are still dozens of links short of being ready to share with the world, but if you happen to stop by, please say hello by adding by opening an issue
 
 ***
 
@@ -69,7 +82,7 @@ We are still dozens of links short of being ready to share with the world, but i
 A reference is a link to a source of information. The links herein can help you understand the "who, what, when, where and why of JavaScript".
 
 
-## Reference ~ Wikimedia Foundation projects relating to JavaScript
+### Reference ~ Wikimedia Foundation projects relating to JavaScript
 
 It's often worth starting any search on any topic by looking at what is available in thw Wikimedia "movement". Sp, here we go with a first look at JavaScript.
 
@@ -110,7 +123,7 @@ See also a variety of other JavaScript references in https://en.wikipedia.org/wi
 
 ***
 
-## Reference ~ Technical Standards and Specifications
+### Reference ~ Technical Standards and Specifications
 
 JavaScript is a language with a free and open source specification. The specification of JavaScript is an [International Standard]( https://en.wikipedia.org/wiki/International_standard ) and is maintained by ecma-international.org. It is ISO/IEC 16262.
 
@@ -146,7 +159,7 @@ There is a topic and then there is talk about a topic. For example, every Wikipe
 
 This section contains links to a variety of published material that defines guidelines, discusses the current state, provides warning and worries and the like.
 
-## Background ~ Articles
+### Background ~ Articles
 
 The terms "Vanilla JavaScript", "Pure JavaScript" and "Plain JavaScript" are used quite frequently, but there are no hard and fast rules as to what these actually mean. On the web there appear to be just a few articles that attempt to define the category. Below are links to some of the articles we've found so far.
 
@@ -253,7 +266,7 @@ Links to more articles and comments will added
 
 
 
-## Background ~ Books
+### Background ~ Books
 
 ### Francesco Strazzullo ~ _Frameworkless Front-End Development: Do You Control Your Dependencies Or Are They Controlling You?_ ~ 2019
 
@@ -266,13 +279,13 @@ Links to more articles and comments will added
 >Frameworkless Front-End Development breaks down the concept of technical debt and the ways in which a framework can impact the lifespan of a project. Along with gaining a comprehensive and clear guide on coding effectively from scratch without frameworks, you will also learn some principles of technical decision-making.
 
 
-## Background ~ Videos
+### Background ~ Videos
 
 ### dotJS 2017 -Adrian Holovaty - A framework author's case against frameworks ~ https://www.youtube.com/watch?v=VvOsegaN9Wk
 > Adrian cowrote Django, a prominent server-side framework, yet he has come to believe that front-end frameworks are unnecessary for his own projects. Here's his impassioned argument for avoiding JavaScript frameworks on the front end.
 
 
-## Background ~ Web Sites
+### Background ~ Web Sites
 
 ### Frameworkless Movement ~ https://www.frameworklessmovement.org/
 
@@ -294,7 +307,7 @@ The ideas of the Frameworkless Movement may be applied to any language, not just
 ## Resources
 
 
-## Resources ~ Sites for learning JavaScript
+### Resources ~ Sites for learning JavaScript
 
 * https://developer.mozilla.org/en-US/docs/Learn
 * https://www.w3schools.com/js/
@@ -314,14 +327,14 @@ What is Vanilla JS ? (Simple explanation for Beginners) [2022]
 Articles
 * https://codeburst.io/js-essentials-the-javascript-engine-302ff38e8465
 
-## Resources ~ Tools for Writing JavaScript
+### Resources ~ Tools for Writing JavaScript
 
 * https://code.visualstudio.com/docs/languages/javascript
 >JavaScript in Visual Studio Code
 >Visual Studio Code includes built-in JavaScript IntelliSense, debugging, formatting, code navigation, refactorings, and many other advanced language features.
 
 
-## Resources ~ Tools for Analyzing
+### Resources ~ Tools for Analyzing
 
 * ESLint
 * JSHint
@@ -329,7 +342,7 @@ Articles
 
 
 
-## Resources ~ Tools to Help Write JavaScript
+### Resources ~ Tools to Help Write JavaScript
 
 * https://htmldom.dev/
 * https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/
@@ -364,7 +377,7 @@ Every plugin includes a demo. link to sources on GitHub and NPM
 ### https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/
 
 
-## Resources ~ Tips
+### Resources ~ Tips
 
 * https://www.sitepoint.com/shorthand-javascript-techniques/
 * https://betterprogramming.pub/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-1-of-6-bc2bc890dfe5
@@ -377,7 +390,7 @@ Every plugin includes a demo. link to sources on GitHub and NPM
 At last, we come to the crux of the matter: source code! The best way to learn plain JavaScript is to to look at, play with and modify JavaScript source code. The following sections are a treasure trove of good, bad and indifferent examplers for you to examinee.
 
 
-## Repos
+### Sources ~ Repos
 
 Repositories on GitHub relating to vanilla JavaScript
 
@@ -396,12 +409,12 @@ More
 
 ***
 
-## Sources ~ Organizations
+### Sources ~ Organizations
 
 * https://www.codementor.io/javascript-experts
 
 
-## Sources ~ People
+### Sources ~ People
 
 One of the great joys of JavaScript is the huge quantity of free, open-source scripts that developes make available for you to observe, enjoy and build upon. Many scripts are plain JavaScript and many other use libraries. There are thousands of people sharing their knowledge in this manner. Below is a work-in-progress list of developers listed alphabetically by first name (following the style of Wikipedia) with links to some of their efforts that might be relevant.
 
@@ -506,10 +519,13 @@ Links to searches on GitHub that may bring up items of interest
 * https://github.com/search?q=JavaScript+awesome+list&type=repositories ~ 744 repos
 
 ***
+## Miscellany
 
-## Small Web
+Odd and ends that don't yet seem to have a category to belong to.
 
-### https://github.com/frameworkless-movement/
+### Miscellany ~ Small Web
+
+### Miscellany ~ https://github.com/frameworkless-movement/
 
 >The Frameworkless Movement is a group of developers interested in developing applications without frameworks. We don't hate frameworks, nor we will ever create campaigns against frameworks, but we perceive the misuse of frameworks as a lack of knowledge regarding technical debt and the availability of alternatives given by the vanilla language or by dedicated libraries.
 
@@ -517,23 +533,23 @@ Links to searches on GitHub that may bring up items of interest
 
 Links to a number of useful articles
 
-### https://en.wikipedia.org/wiki/Demoscene ~ Demoscene
+### Miscellany ~ https://en.wikipedia.org/wiki/Demoscene ~ Demoscene
 
 >The demoscene is an international computer art subculture focused on producing demos: self-contained, sometimes extremely small, computer programs that produce audiovisual presentations. The purpose of a demo is to show off programming, visual art, and musical skills. Demos and other demoscene productions (graphics, music, videos, games) are shared at festivals known as demoparties, voted on by those who attend and released online.
 
-### https://benhoyt.com/writings/the-small-web-is-beautiful/ ~ Ben Hoyt: The small web is beautiful
+### Miscellany ~ https://benhoyt.com/writings/the-small-web-is-beautiful/ ~ Ben Hoyt: The small web is beautiful
 
 * https://news.ycombinator.com/item?id=26305585
 
 >Summary: I believe that small websites are compelling aesthetically, but are also important to help us resist selling our souls to large tech companies. In this essay I present a vision for the “small web” as well as the small software and architectures that power it. Also, a bonus rant about microservices.
 
 
-## Not Plain JavaScript
+### Miscellany ~ Not Plain JavaScript
 
 * https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
 
 
-### 2022-05-03 ~ Josh Comeau ~ https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
+### Miscellany ~ 2022-05-03 ~ Josh Comeau ~ https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
 
 >Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.
 
