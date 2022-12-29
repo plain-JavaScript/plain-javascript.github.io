@@ -4,8 +4,7 @@ _Awesome list of curated links to the many wonderful aspects of simple, fast and
 
 ## Links: https://plain-JavaScript.github.io ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io )
 
-## Table of Contents
-
+* [Target Audiences]( #target-audiences )
 * [Introduction]( #Introduction )
 * [Target Audience]( #target-audience )
 * [Reference]( #Reference )
