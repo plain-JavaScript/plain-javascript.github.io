@@ -15,13 +15,14 @@ _Awesome list of curated links to the many wonderful aspects of simple, fast and
 
 
 ## Introduction
+
 This repository provides lists of links to resources for developers of applications based on the JavaScript programming language. The particular emphasis here is on plain ["vanilla"]( https://en.wikipedia.org/wiki/Vanilla_software ) scripts that are simple, free and easy on the brain.
 
 ***
 
-JavaScript is perhaps the most widely used computer language. Almost any computing task - no matter howe complicated - has been <s>hacked</s> accomplished with JavaScript. Some of the smartest people in the world investigate the most difficult issues using JavaScript.
+JavaScript is perhaps the [most widely used programming language]( https://octoverse.github.com/2022/top-programming-languages ). Almost any computing task - no matter how complicated - has been <s>hacked</s> [accomplished with JavaScript]( https://en.wikipedia.org/wiki/Jeff_Atwood#:~:text=In%202007%2C%20Jeff%20Atwood%20made,eventually%20be%20written%20in%20JavaScript.%E2%80%9D ). Some of the smartest people in the world investigate the most difficult issues using JavaScript.
 
-So where does that leave us simple folk?
+But where does that leave us simple folk?
 
 The good news:
 
@@ -516,6 +517,15 @@ Links to searches on GitHub that may bring up items of interest
 * https://github.com/topics/pure-javascript ~ 511 repos
 * https://github.com/topics/vanilla-js ~ 3.5K repos
 * https://github.com/search?q=JavaScript+awesome+list&type=repositories ~ 744 repos
+* https://stargazing.dev/
+* https://github.com/topics/awesome-list
+* https://github.com/topics/awesome-list?q=JavaScript
+* https://github.com/micromata/awesome-javascript-learning
+* https://github.com/olawanlejoel/Awesome-Javascript-resources
+* https://github.com/minidonut/awesome-javascript
+* https://github.com/dexteryy/spellbook-of-modern-webdev
+* https://github.com/raphamorim/awesome-canvas
+* https://github.com/Cyanhall/awesome-javascript
 
 ***
 ## Miscellany
