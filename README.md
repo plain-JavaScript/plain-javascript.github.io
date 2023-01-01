@@ -504,10 +504,21 @@ I can spend hours playing with Maxime's efforts
 ### Ricardo Cabello
 
 
+### Stanko Tadic
+
+* https://github.com/Stanko
+* https://www.linkedin.com/in/stankotadic/
+) https://muffinman.io/art/
+* https://muffinman.io/blog/draw-svg-rope-using-javascript/
+  * https://news.ycombinator.com/item?id=34197379
+
+
 ### Steve Wittens
 
 * https://github.com/unconed
 * https://acko.net/
+
+
 
 ## Sources ~ GitHub Searches
 
