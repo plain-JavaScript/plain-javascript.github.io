@@ -1,8 +1,8 @@
 # Brainstorming
 
-This ia a file where you can add your ideas as to where this project may go.
+This ia a file where you can add your ideas as to where this project may go. A sentence or two for each item if possible.
 
-If you would like to discuss any item in detail, kindly do so in a Discussion.
+If you would like to discuss any item included here in detail, kindly do so in a [Discussion]( https://github.com/plain-JavaScript/plain-javascript.github.io/discussions ).
 
 Please date and sign your contributions - with newest posts at the top.
 
@@ -16,7 +16,7 @@ As a team member, you are encouraged to add, manage and maintain your own person
 
 You are encouraged to reappropriate items from any other repo in any way you want.
 
-plain-javascript.github.io is a lanfding page. It links to all the repos and informs you why you might like to go there.
+plain-javascript.github.io is a landing page. It links to all the repos and informs you why you might like to go there.
 
 You are encouraged to stay on-topic. And the topic is: JavaScript plain and simple. Whatever that means. ;-)
 
