@@ -3,6 +3,10 @@
 ## Links: https://plain-JavaScript.github.io/#journal.md ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io/blob/main/journal.md )
 
 
+## 2023-01-06 ~ @theo-armour
+
+* Add features I look for in Kitchen Sink efforts
+
 ## 2023-01-02 ~ @theo-armour
 
 Added @javarome as an owner
