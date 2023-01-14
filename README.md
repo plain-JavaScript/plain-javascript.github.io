@@ -16,11 +16,12 @@ See also the [Discussions]( https://github.com/plain-JavaScript/plain-javascript
 
 ## #noframework: https://plain-JavaScript.github.io/noframework ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/noframework )
 
-#noframework is a repository maintained by [@javarome]( https://github.com/Javarome)
+#noframework is a repository maintained by [@javarome]( https://github.com/Javarome )
 
 "#noframework" is also a great hashtag. It encompasses and even greater arena of effort than "plain JavaScript". For example, see https://www.frameworklessmovement.org/
 
-Javarome's repo is the place to start to get an overview of what this project is about. Even of greater significance, you can begin to get an idea why this projects is significant, useful and fun.
+Javarome's repo is the place to start to get an overview of what this project is about. Even of greater significance, you can begin to get an idea why this project may be significant, useful and fun.
+
 
 ## Kitchen Sink: https://plain-JavaScript.github.io/kitchen-sink ~ [![]( https://plain-JavaScript.github.io/assets/
 octicon.svg)]( https://github.com/plain-JavaScript/kitchen-sink )
