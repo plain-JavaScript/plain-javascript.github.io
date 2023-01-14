@@ -11,6 +11,8 @@ See [brainstorming.md]( https://github.com/plain-JavaScript/plain-javascript.git
 
 2023-01-14 ~ We now have two repos of curated links and comments for you to check out!
 
+See also the [Discussions]( https://github.com/plain-JavaScript/plain-javascript.github.io/discussions ) page for more on the new repo.
+
 
 ## #noframework: https://plain-JavaScript.github.io/noframework ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/noframework )
 

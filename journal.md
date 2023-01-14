@@ -3,6 +3,19 @@
 ## Links: https://plain-JavaScript.github.io/#journal.md ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io/blob/main/journal.md )
 
 
+## 2023-01-14 ~ @theo-armour
+
+Finaly noticed @javarome's repo:
+
+Added GitHub Pages capability.
+
+Added relevant text and links to plain-javasxript readme.
+
+Added new discussion item
+
+https://www.reddit.com/r/programming/comments/t7un48/building_a_web_app_with_no_framework/
+
+
 ## 2023-01-06 ~ @theo-armour
 
 * Add features I look for in Kitchen Sink efforts
