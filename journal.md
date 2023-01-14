@@ -5,11 +5,11 @@
 
 ## 2023-01-14 ~ @theo-armour
 
-Finaly noticed @javarome's repo:
+Finally noticed @javarome's repo:
 
 Added GitHub Pages capability.
 
-Added relevant text and links to plain-javasxript readme.
+Added relevant text and links to plain-javascript readme.
 
 Added new discussion item
 
