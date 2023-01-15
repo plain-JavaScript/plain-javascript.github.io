@@ -13,8 +13,10 @@ Added relevant text and links to plain-javascript readme.
 
 Added new discussion item
 
-https://www.reddit.com/r/programming/comments/t7un48/building_a_web_app_with_no_framework/
+Need:
 
+* favicon
+* 404.html
 
 ## 2023-01-06 ~ @theo-armour
 
