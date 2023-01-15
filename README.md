@@ -41,9 +41,10 @@ Features I look for with Kitchen Sink efforts include
 
 Features that are not Kitchen Sink-able
 
-* Fullstack developers
-* Knowing YAML or TypeScript
+* Features for fullstack developers
+* Things that require knowing YAML or TypeScript
 
+Maybe it's code that is: Easy to learn, fast to edit & run, and does something cool
 
 ***
 
