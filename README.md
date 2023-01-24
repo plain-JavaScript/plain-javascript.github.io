@@ -3,7 +3,7 @@
 _Awesome list of curated links to the many wonderful aspects of simple, fast and future-proof JavaScript_
 
 
-## Links to here: https://plain-javascript.github.io ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io )
+## Links to here: https://plain-javascript.github.io ~ [![]( https://plain-JavaScript.github.io/assets/svg/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io )
 
 This home page links to repositories with useful JavaScript resources.
 
@@ -14,7 +14,7 @@ See [brainstorming.md]( https://github.com/plain-JavaScript/plain-javascript.git
 See also the [Discussions]( https://github.com/plain-JavaScript/plain-javascript.github.io/discussions ) page for more on the new repo.
 
 
-## #noframework: https://plain-javascript.github.io/noframework ~ [![]( https://plain-javascript.github.io/assets/octicon.svg)]( https://github.com/plain-javascript/noframework )
+## #noframework: https://plain-javascript.github.io/noframework ~ [![]( https://plain-javascript.github.io/assets/svg/octicon.svg)]( https://github.com/plain-javascript/noframework )
 
 #noframework is a repository maintained by [@javarome]( https://github.com/Javarome )
 
@@ -23,11 +23,11 @@ See also the [Discussions]( https://github.com/plain-JavaScript/plain-javascript
 Javarome's repo is the place to start to get an overview of what this project is about. Even of greater significance, you can begin to get an idea why this project may be significant, useful and fun.
 
 
-## Kitchen Sink: https://plain-javascript.github.io/kitchen-sink ~ [![]( https://plain-javascript.github.io/assets/octicon.svg )]( https://github.com/plain-javascript/kitchen-sink )
+## Awesome List: https://plain-javascript.github.io/awesome-list ~ [![]( https://plain-javascript.github.io/assets/svg/octicon.svg )]( https://github.com/plain-javascript/awesome-list )
 
 A repository of JavaScript resources with more than enough links maintained by @theo-armour
 
-Features I look for with Kitchen Sink efforts include
+Features I look for with Awesome List efforts include:
 
 * Recent activity
 * Reasonably extensive body of work
